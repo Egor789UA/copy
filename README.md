@@ -1,4 +1,4 @@
-<!doctype html>
+<!Doctype html>
 <html>
 <head>
 <!-- Google tag (gtag.js) -->
