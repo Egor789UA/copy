@@ -464,7 +464,7 @@ window.google_analytics_uacct = "UA-4723205-3";
 
 <a class="prosto_text" style="color:#1f1f1f;" href="/про-сайт.html">Про сайт</a>
 
-<a class="prosto_text" style="color:#1f1f1f;" href="/захист-авторських-прав.html">Про авторські права</a>
+<a class="prosto_text" style="color:#1f1f1f;" href="/захист-авторських-прав.html">Немає авторських прав</a>
 
 <a class="prosto_text" style="color:#1f1f1f;" href="https://www.facebook.com/mala.storinka/">FB спільнотка</a>
 
