@@ -18,7 +18,7 @@
 <meta property="og:image" content="https://mala.storinka.org/img/default_notextogimage.jpg"/>
 <meta property="og:site_name" content="Мала Сторінка"/>
 <meta property="og:title" content="Ярослав Стельмах. &quot;Митькозавр із Юрківки, або Химера лісового озера&quot; (повість) - читати та слухати" />
-<meta property="og:url" content="https://youtu.be/C-SV6APGdeY?si=j21lcIM80JgjwHyM.html" />
+<meta property="og:url" content="https://mala.storinka.org/%D0%BC%D0%B8%D1%82%D1%8C%D0%BA%D0%BE%D0%B7%D0%B0%D0%B2%D1%80-%D1%96%D0%B7-%D1%8E%D1%80%D0%BA%D1%96%D0%B2%D0%BA%D0%B8-%D0%B0%D0%B1%D0%BE-%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0-%D0%BB%D1%96%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B7%D0%B5%D1%80%D0%B0-%D0%BF%D0%BE%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D1%82%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0%D1%85.html" />
 <meta property="og:type" content="website" />
 <meta property="og:description" content="Ярослав Стельмах, &quot;Митькозавр із Юрківки, або Химера лісового озера&quot; (повість), читати та завантажити" />
 <meta property="fb:admins" content="100000288596959" />
@@ -672,7 +672,7 @@ return false;
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><span style="font-size:14px;"><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/UDXgduw4Gww?list=PLWWkgN0T-JUpXCIwID9pLLXSwDM9zhREu" width="560"></iframe></span></p>
+<p style="text-align: center;"><span style="font-size:14px;"><iframe allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/C-SV6APGdeY?si=j21lcIM80JgjwHyM" width="560"></iframe></span></p>
 
 <p style="text-align: center;">&nbsp;</p>
 
